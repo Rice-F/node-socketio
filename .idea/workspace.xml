@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c3aac6-4ac9-4889-a839-d2f74ce0a3a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1703861459">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="243" />
+          <entry key="js" value="305" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="243" />
+          <entry key="JavaScript" value="305" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01/app.js" />
+        <option value="$PROJECT_DIR$/01/app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/01/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.1@indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.3@component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.3@object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.4@blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.5@parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.0.7@arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.1.2@yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.1.4@to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.1.5@base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.3.1@cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.6.1@negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.0.8.2@after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.0@async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.0@base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.0@callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.0@component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.2@backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.2@better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.2@better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.3@has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.0.3@has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.1.0@has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.1.1@socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.1.1@ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.2.1@component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.3.5@accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.3.5@accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.3.5@accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.3.5@accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.35.0@mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.1.5.5@xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.0.0@ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.0.1@isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.19@mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.19@mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.1@socket.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.2.1.2@engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.1.0@debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.1.0@debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@engine.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.0@socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.2.1@engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.3.3@ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.3.3@ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.3.3@ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.3.3.3@ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/.5.1.2@safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ws/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ws/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/01/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/01/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="958" />
+    <option name="y" value="12" />
+    <option name="width" value="908" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="node-socketio-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-socketio-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-socketio-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-socketio-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/01">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c3aac6-4ac9-4889-a839-d2f74ce0a3a0" name="Default Changelist" comment="" />
+      <created>1534429094502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534429094502</updated>
+      <workItem from="1534429095856" duration="18000" />
+      <workItem from="1534664015926" duration="3791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3809000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="958" y="12" width="908" height="1008" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20344828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32951945" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

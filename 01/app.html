@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>node-scoketio</title>
+    <script src="http://localhost:3000/socket.io/socket.io.js"></script>
+    <script>
+        let socket = io('http://localhost:3000/');    // 和服务器建立连接
+
+        window.onload = function () {
+            let btn = document.getElementsByClassName('btn')[0]
+            btn.onclick = function () {
+                // 客户端给服务器发送数据
+                socket.emit('addcart', {
+                    client: '我是客户端数据'
+                })
+            }
+            socket.on('to-client', function(data) {
+                console.log(data)
+            })
+        }
+    </script>
+</head>
+<body>
+    客户端
+    <button class="btn">给服务器发送数据</button>
+</body>
+</html>
