@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title></title>
+  <script src="/jquery-1.11.3.min.js"></script>
+  <script src="http://127.0.0.1:8000/socket.io/socket.io.js"></script>
+    <style>
+        .box {
+            width: 300px;
+            height: 400px;
+            margin: 20px auto 0;
+            border: 1px solid #666;
+        }
+        #list{
+            width: 300px;
+            height: 360px;
+            overflow-y: auto;
+        }
+        .message{
+            height: 40px;
+            line-height: 44px;
+            display: flex;
+        }
+        .message input{
+            border: 1px solid #666;
+        }
+        .message input[type='text']{
+            flex: 1;
+            height: 38px;
+        }
+        .message input[type='button']{
+            width: 100px;
+            height: 40px;
+            border: 1px solid #666;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <div id="list">
+            <div id="footer">
+            </div>
+        </div>
+        <div class="message">
+            <input id="msg" type="text">
+            <input id="send" type="button" value="发送">
+        </div>
+    </div>
+</body>
+</html>
+
+<script>
+    $(function(){
+        let socket = io.connect('http://127.0.0.1:8000/')
+
+        // 群聊
+        $('#send').click(function(){
+            let msg = $('#msg').val()
+            let username = 'zhangdan' + Math.floor(Math.random() * 10)
+            // 客户端给服务器发送数据
+            socket.emit('message', {
+                'username': username,
+                'msg': msg
+            })
+            $('#list').append(`<p><strong>${username}:</strong>${msg}</p>`)
+            $('#msg').val();
+        })
+        socket.on('serverMessage',function(data) {
+            let serverMsg = data.serverMsg
+            $('#list').append(`<p>${serverMsg}</p>`)
+            $('#msg').val();
+        })
+
+        // 接受服务器数据
+        // socket.on('server-message', function (data) {
+        //     console.log(data)
+        // })
+    })
+</script>
