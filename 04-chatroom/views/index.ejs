@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title></title>
+    <script src="/jquery-1.11.3.min.js"></script>
+    <script src="http://127.0.0.1:8000/socket.io/socket.io.js"></script>
+    <style>
+        html {
+            height: 100%;
+            background: url("banner-bg_2x.jpg") no-repeat center center / 100% auto #1B1C3B;
+        }
+        .box{
+            display: flex;
+            width: 400px;
+            height: 60px;
+            margin:200px auto;
+        }
+        .box input[type='text']{
+            flex: 1;
+            height: 60px;
+            border: 1px solid #eee;
+        }
+        .box button{
+            width: 100px;
+            height: 64px;
+            background: orange;
+            color: #fff;
+            border:none;
+            cursor: pointer;
+        }
+    </style>
+    <script>
+
+        $(function(){
+            $('.login').click(function(){
+                var name=$('#name').val();
+                if(name){
+                    location.href='/chat?name='+name;
+                }else{
+                    alert('您的大名不对');
+                }
+            })
+        })
+    </script>
+</head>
+<body>
+    <div class="box">
+        <input type="text" placeholder="请输入您的姓名" id="name"/>
+        <button class="login">进入聊天室</button>
+    </div>
+</body>
+</html>

@@ -12,7 +12,7 @@
             margin: 20px auto 0;
             border: 1px solid #666;
         }
-        #list{
+        .list{
             width: 300px;
             height: 360px;
             overflow-y: auto;
@@ -39,9 +39,10 @@
 <body>
 
     <div class="box">
-        <div id="list">
-            <div id="footer">
+        <div class="list">
+            <div id="list">
             </div>
+            <div id="footer"></div>
         </div>
         <div class="message">
             <input id="msg" type="text">
@@ -54,28 +55,24 @@
 <script>
     $(function(){
         let socket = io.connect('http://127.0.0.1:8000/')
-
-        // 群聊
+        let username = 'zhangdan' + Math.floor(Math.random() * 10)
+        // 机器人助手
         $('#send').click(function(){
             let msg = $('#msg').val()
-            let username = 'zhangdan' + Math.floor(Math.random() * 10)
             // 客户端给服务器发送数据
             socket.emit('message', {
                 'username': username,
                 'msg': msg
             })
             $('#list').append(`<p><strong>${username}:</strong>${msg}</p>`)
-            $('#msg').val();
+            $('#msg').val('');
         })
+        // 接受服务器数据
         socket.on('serverMessage',function(data) {
             let serverMsg = data.serverMsg
             $('#list').append(`<p>${serverMsg}</p>`)
-            $('#msg').val();
+            $('#msg').val('');
+            $('#footer')[0].scrollIntoView()
         })
-
-        // 接受服务器数据
-        // socket.on('server-message', function (data) {
-        //     console.log(data)
-        // })
     })
 </script>
