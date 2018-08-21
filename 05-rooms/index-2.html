@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index-2</title>
+    <script src="http://127.0.0.1:8000/socket.io/socket.io.js"></script>
+</head>
+<body>
+<h1>socket.io的多房间2</h1>
+<input type="button" value="加入购物车" onclick="addCart()"><br>
+
+<script type="text/javascript">
+
+    //和服务器建立长连接
+    var socket = io.connect('http://127.0.0.1:8000?roomid=2');
+
+    //接收服务器返回的信息
+    socket.on('addCart',function(data){
+        console.log(data);
+    });
+
+    // 给服务器发送数据
+    function addCart(){
+        socket.emit('addCart','addCart');
+    }
+
+</script>
+</body>
+</html>

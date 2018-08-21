@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c3aac6-4ac9-4889-a839-d2f74ce0a3a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04-chatroom/views/chat.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-rooms/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-rooms/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-rooms/views/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-robot/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/03-robot/views/index.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,40 +24,86 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ejs" value="802" />
-          <entry key="html" value="243" />
-          <entry key="js" value="1102" />
+          <entry key="ejs" value="980" />
+          <entry key="html" value="287" />
+          <entry key="js" value="1309" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="EJS" value="802" />
-          <entry key="HTML" value="243" />
-          <entry key="JavaScript" value="1102" />
+          <entry key="EJS" value="980" />
+          <entry key="HTML" value="287" />
+          <entry key="JavaScript" value="1309" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ejs" value="5" />
-          <entry key="js" value="3" />
+          <entry key="ejs" value="10" />
+          <entry key="html" value="3" />
+          <entry key="js" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="EJS" value="5" />
-          <entry key="JavaScript" value="3" />
+          <entry key="EJS" value="10" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-rooms/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-rooms/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-rooms/index-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-rooms/index-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,6 +120,11 @@
         <option value="$PROJECT_DIR$/04-chatroom/app.js" />
         <option value="$PROJECT_DIR$/04-chatroom/views/index.ejs" />
         <option value="$PROJECT_DIR$/04-chatroom/views/chat.ejs" />
+        <option value="$PROJECT_DIR$/05-rooms/views/index-1.ejs" />
+        <option value="$PROJECT_DIR$/05-rooms/views/index.ejs" />
+        <option value="$PROJECT_DIR$/05-rooms/index-1.html" />
+        <option value="$PROJECT_DIR$/05-rooms/index-2.html" />
+        <option value="$PROJECT_DIR$/05-rooms/app.js" />
       </list>
     </option>
   </component>
@@ -87,6 +139,7 @@
     <handled-path value="$PROJECT_DIR$/02-express-soketio-theory/node_modules" />
     <handled-path value="$PROJECT_DIR$/03-robot/node_modules" />
     <handled-path value="$PROJECT_DIR$/04-chatroom/node_modules" />
+    <handled-path value="$PROJECT_DIR$/05-rooms/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -94,6 +147,7 @@
       <path value="$PROJECT_DIR$/02-express-soketio-theory/package.json" />
       <path value="$PROJECT_DIR$/03-robot/package.json" />
       <path value="$PROJECT_DIR$/04-chatroom/package.json" />
+      <path value="$PROJECT_DIR$/05-rooms/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -119,13 +173,7 @@
             <path>
               <item name="node-socketio-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-socketio-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="04-chatroom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node-socketio-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-socketio-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="04-chatroom" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="05-rooms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,6 +182,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/02-express-soketio-theory" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -152,11 +201,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (2)">
+  <component name="RunManager" selected="Node.js.app.js (3)">
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/03-robot">
       <method v="2" />
     </configuration>
     <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/04-chatroom">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/05-rooms">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/02-express-soketio-theory">
@@ -166,9 +218,11 @@
       <item itemvalue="Node.js.app.js" />
       <item itemvalue="Node.js.app.js (1)" />
       <item itemvalue="Node.js.app.js (2)" />
+      <item itemvalue="Node.js.app.js (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.app.js (3)" />
         <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.app.js" />
@@ -189,21 +243,23 @@
       <workItem from="1534664015926" duration="4418000" />
       <workItem from="1534694630172" duration="2591000" />
       <workItem from="1534754663827" duration="10502000" />
+      <workItem from="1534856114597" duration="6213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17529000" />
+    <option name="totallyTimeSpent" value="23742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="907" y="24" width="987" height="1006" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18651211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,6 +331,50 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/views/index-2.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/views/index-1.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/index-1.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/index-2.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/index-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-rooms/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>index</title>
+    <script src="../public/jquery-1.11.3.min.js"></script>
+    <script src="http://127.0.0.1:8000/socket.io/socket.io.js"></script>
+</head>
+<body>
+    <button id="send">加入购物车</button>
+</body>
+</html>
+
+<script>
+    $(function(){
+        let socket = io.connect('http://127.0.0.1:8000/');
+        //群聊功能--聊天室
+        $('#send').click(function(){
+            let msg=$('#msg').val();
+            socket.emit('message',msg);  /*客户端给服务器发送数据*/
+        })
+        //接受服务器返回的数据
+        socket.on('servermessage',function(data){
+            console.log(data)
+        })
+    })
+</script>
