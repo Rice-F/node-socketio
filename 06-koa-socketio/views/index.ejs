@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>koa-socket</title>
+    <script src="http://localhost:3000/socket.io/socket.io.js"></script>
+    <script>
+        let socket=io.connect('http://localhost:3000/');
+        socket.on('serverEmit',function(data){
+                console.log(data);
+        })
+        function send(){
+            socket.emit('addCart','我是客户端的数据');
+        }
+    </script>
+</head>
+<body>
+    <% include public/header.ejs%>
+    这是一个ejs的模板引擎
+    <h2><%=title%></h2>
+    <button onclick="send()">给服务器发送消息</button>
+</body>
+</html>

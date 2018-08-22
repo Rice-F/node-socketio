@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>socket.io</title>
+    <script src="http://127.0.0.1:3000/socket.io/socket.io.js"></script>
+</head>
+<body>
+    <h1>socket.io的客户1-3</h1>
+    <input type="button" value="加入购物车" onclick="addCart()"><br>
+</body>
+</html>
+
+<script type="text/javascript">
+    //和服务器建立长连接
+    var socket = io.connect('http://127.0.0.1:3000?roomid=1');
+    //接收服务器返回的信息
+    socket.on('serverEmit',function(data){
+        console.log(data);
+    });
+    function addCart(){
+        socket.emit('addCart','addCart');
+    }
+</script>
